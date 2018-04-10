@@ -1,0 +1,33 @@
+
+html {
+  font-size: 62.5%;
+}
+
+html, body {
+  font-family: monospace;
+}
+
+h1 {
+  color: white;
+  height: 20px;
+  line-height: 20px;
+  background-color: grey;
+  padding: 10px;
+  font-size: 2rem;
+}
+
+label {
+  font-size: 1.6rem;
+  display: block;
+  margin-bottom: 16px;
+}
+
+#controls {
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+  padding: 20px;
+}
+
